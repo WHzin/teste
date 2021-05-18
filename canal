@@ -1,0 +1,4 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/discovery-turbo-logo-5206AA4570-seeklogo.com.png" group-title="CANAIS", DISCOVERY TURBO
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/discoveryturbo_ca3512f4_53be758d4a7f1d6c1cd569d3e9d070354f39c34b/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiNDUuMjMzLjExMy4xMTAiO2k6MTtzOjExNToiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzkwLjAuNDQzMC4yMTIgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTYyMTI4NjA2Nzt9
